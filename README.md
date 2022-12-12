@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nuzul Fikrie , a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
-- 🔭 I’m currently working on [G](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working at [Grounded Learning Malaysia](https://www.linkedin.com/company/13651059)  
   
 
 - 🌱 I’m currently learning Docker, Kubernetes and Golang  
