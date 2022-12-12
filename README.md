@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to LAMP/ MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Let's build something together
   
 
 <br/>  
