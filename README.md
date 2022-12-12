@@ -1,0 +1,2 @@
+# iniFikrie
+fikrie readme
